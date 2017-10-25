@@ -1,0 +1,15 @@
+.pagination-links{
+    margin:30px 0;
+}
+a.pagination-links{
+    padding:8px 13px;
+    margin:5px;
+    background: #f4f4f4;
+    border:1px #ccc solid;
+}
+.pagination-links strong{
+    padding:8px 13px;
+    margin:5px;
+    background: #f4f4f4;
+    border:1px #ccc solid;
+}
